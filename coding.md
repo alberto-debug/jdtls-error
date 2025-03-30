@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-- [ ] - **Code Challenges**
+- [x] - **Code Challenges**
 
 Desafio Back-end Jr. AutoSCORE
 Avisos antes de começar
