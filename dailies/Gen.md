@@ -10,5 +10,5 @@ tags: []
 
 - Information TEchnology: refers to the use of computers, software, networks to store , manage , process and share information
   k
-
+  jj
   kkk
