@@ -14,4 +14,6 @@ tags: []
 - Types of Reports.
 - RA: validation Rules-input Design.
 
+
+
 enntity relationship diagram. Normalization(RA)
