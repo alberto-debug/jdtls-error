@@ -12,7 +12,7 @@ tags: []
 - GUI is part of UI
 - RA: Command, Toggle button , radio button .
 - Types of Reports.
-- RA: validation Rules-input Design.
+- RA: validation Rules-input Design
 
 
 
